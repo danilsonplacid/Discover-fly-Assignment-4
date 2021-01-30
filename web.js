@@ -74,3 +74,5 @@ function calculateTotal() {
 function showAlert(){
     alert("Confirm to book your ticket?");
 }
+
+// End of Alert
